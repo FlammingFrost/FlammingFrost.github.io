@@ -2,6 +2,9 @@
 title: "About"
 date: 2020-11-17T21:21:46-05:00
 draft: false
+layout: single
+# series: "How to use poison"
+# tags: ["Hugo"]
 ---
 
 *Updated: 2023-07-27*
