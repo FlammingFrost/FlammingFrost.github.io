@@ -18,8 +18,10 @@ layout: single
 ## Education
 - Degree: Undergraduate student
 - Major: Data Science
-- Institution: Sentech
+- Institution: SUSTech
 - Period: 2020-now
+- Supervisor: Prof. Lili Yang
+- GPA: 3.89 out of 4
 
 ## Research Interests
 - Reinforce Learning
@@ -38,7 +40,7 @@ layout: single
 - MJN Data platform:
   - Company: Accentuate
   - Position: Platform construction group member
-  - Period: 2022 Feb. - March.
+  - Period: 2022 Feb. - March
 
 ## Awards and Honors
 - Awards:
