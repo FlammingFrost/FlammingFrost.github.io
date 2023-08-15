@@ -21,7 +21,7 @@ layout: single
 - Institution: SUSTech
 - Period: 2020-now
 - Supervisor: Prof. Lili Yang
-- GPA: 3.89 out of 4
+- GPA: 3.89 out of 4 (Rank: 1/26)
 
 ## Research Interests
 - Reinforce Learning
@@ -34,11 +34,15 @@ layout: single
 ## Academic Experience
 - 2023 Summer Seminar of department of Statistics:
   - Paper sharing and discussion
+  - Period: 2023 July - August
+- 2023 Lady Margaret Hall Summer Programme:
+  - Course: Artificial Intelligence and Machine Learning
+  - Period: 2023 August (ongoing)
 
 ## Internship/Work Experience
 
 - MJN Data platform:
-  - Company: Accentuate
+  - Company: Accenture
   - Position: Platform construction group member
   - Period: 2022 Feb. - March
 
