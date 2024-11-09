@@ -10,19 +10,13 @@ tags:
 
 Hello there! 👋
 
-I'm **Lifan Lin 林立凡**, a undergraduate student in South University of Science and Technology.
+I'm **Lifan Lin (Hugo)**, currently a master's student in Data Science at Stanford University. Passionated about data-centric machine learning, data analysis, and applied machine learning.
 
-This is the  homepage of my blog. 
-
+There're links to my lifestyle-blog and learning log on your left:
 <!--more-->
+- **Lifestyle-blog**: Some creations, some experiences, and some thoughts. Mainly about my life and my feelings.
+- **Learning log**: Some notes, some projects, and some thoughts. Showcasing some of my works and thoughts in the field of data science and machine learning.
+- 
+But here, I will keep it simple. Probably some brief updates of myself and some featured articles.
 
-## About this site
-
-You can learn about me here. Some featured article will be also post here. I will keep it simple.
-
-For more content, welcome to my lifestyle-blog and learning log😄. Links are on the right sidebar.
-
-## Afterword
-
-Click the sun/moon button to switch between light/night modes.
 
