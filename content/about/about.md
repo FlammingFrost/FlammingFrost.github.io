@@ -9,16 +9,16 @@ layout: single
 
 ### Personal Information
 - Name: Lifan Lin (Hugo)
-- Email: linlf02@gmail.com (Click the icon in sidebar!)
+- Email: lifanlin@stanford.edu (Click the icon in sidebar!)
 - Address: Stanford University, CA, USA
 
 ### Education
 
 #### Stanford University
 - Degree: Master
-- Major: Statistics (Data Science Track)
-- Period: 2024-now
-- GPA: Not available yet
+- Major: Statistics | Data Science
+- Period: 2024-2026
+- GPA: 4.0/4.3
 
 #### Southern University of Science and Technology (SUSTech)
 - Degree: Bachelor
@@ -27,12 +27,9 @@ layout: single
 - Supervisor: Prof. Lili Yang
 - GPA: 3.88/4.0
 
-### Main Focus Area
-- Data-Centric Machine Learning
-- Data Analysis and Visualization
-- Applied Machine Learning
-
 ### Academic Achievements
+Happy to share that my latest works have been accepted by NeurIPS 2024!!!
+
 - Co-First Author, ["OwMatch: Conditional Self-Labeling with Consistency for Open-world Semi-Supervised Learning"](https://openreview.net/pdf?id=rle9X7DQuH), NeurIPS 2024
 - Third Author, ["Efficacy and safety of targeted therapy for radioiodine-refractory differentiated thyroid cancer: a meta-analysis"](https://academic.oup.com/jcem/advance-article-abstract/doi/10.1210/clinem/dgae617/7760305?redirectedFrom=fulltext), JCME 2024
 
